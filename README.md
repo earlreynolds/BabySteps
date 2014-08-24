@@ -2,7 +2,7 @@ BabySteps
 =========
 
 First Project in Python And Pygame
-
+Requires Python 2.7 and Pygame to run.
 
 This is a very basic 2D RPG engine I wrote over a couple of months in 2013. It was written for learning purposes. I have no 
 plans to complete or develop this project.
